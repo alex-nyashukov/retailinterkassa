@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7d835ae2f62c376648b46c5e80e9a485",
+    "content-hash": "3b3054d09f881b6c5a4fcc0b2c63cd86",
     "packages": [
         {
             "name": "retailcrm/api-client-php",
