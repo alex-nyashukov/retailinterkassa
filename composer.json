@@ -1,0 +1,12 @@
+{
+    "name": "alex/retailinterkassa",
+    "description": "",
+    "require": {
+        "retailcrm/api-client-php": "^5.4"
+    },
+    "autoload": {
+        "classmap": [
+            "lib/interkassa/src"
+        ]
+    }
+}
