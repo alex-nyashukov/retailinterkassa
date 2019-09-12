@@ -1,6 +1,7 @@
 {
     "name": "alex-nyashukov/retailinterkassa",
     "description": "",
+    "license": "MIT",
     "require": {
         "retailcrm/api-client-php": "^5.4"
     },
